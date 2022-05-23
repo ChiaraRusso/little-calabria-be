@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "secondCourses")
+@Table(name = "second_courses")
 public class SecondCourse extends FoodAbstract {
 
     public SecondCourse() {
