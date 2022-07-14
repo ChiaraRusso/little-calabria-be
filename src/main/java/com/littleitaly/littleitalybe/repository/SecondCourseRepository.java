@@ -1,8 +1,7 @@
 package com.littleitaly.littleitalybe.repository;
 
-import com.littleitaly.littleitalybe.model.Appetizer;
 import com.littleitaly.littleitalybe.model.SecondCourse;
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface SecondCourseRepository extends CrudRepository<SecondCourse,Long> {
+public interface SecondCourseRepository extends JpaRepository<SecondCourse,Long> {
 }
