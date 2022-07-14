@@ -1,2 +1,2 @@
-# little-italy-be
+# little-calabria-be
 Back-end of my portfolio project
